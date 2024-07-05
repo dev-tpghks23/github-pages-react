@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/tpghksgit23.github.io/github-pages-react/static/css/main.f855e6bc.css",
-    "main.js": "/tpghksgit23.github.io/github-pages-react/static/js/main.f8cc0c7b.js",
-    "static/js/453.f7be5b23.chunk.js": "/tpghksgit23.github.io/github-pages-react/static/js/453.f7be5b23.chunk.js",
-    "static/media/logo.svg": "/tpghksgit23.github.io/github-pages-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/tpghksgit23.github.io/github-pages-react/index.html",
-    "main.f855e6bc.css.map": "/tpghksgit23.github.io/github-pages-react/static/css/main.f855e6bc.css.map",
-    "main.f8cc0c7b.js.map": "/tpghksgit23.github.io/github-pages-react/static/js/main.f8cc0c7b.js.map",
-    "453.f7be5b23.chunk.js.map": "/tpghksgit23.github.io/github-pages-react/static/js/453.f7be5b23.chunk.js.map"
+    "main.css": "/dev-tpghks23.github.io/github-pages-react/static/css/main.f855e6bc.css",
+    "main.js": "/dev-tpghks23.github.io/github-pages-react/static/js/main.e158c589.js",
+    "static/js/453.f7be5b23.chunk.js": "/dev-tpghks23.github.io/github-pages-react/static/js/453.f7be5b23.chunk.js",
+    "static/media/logo.svg": "/dev-tpghks23.github.io/github-pages-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dev-tpghks23.github.io/github-pages-react/index.html",
+    "main.f855e6bc.css.map": "/dev-tpghks23.github.io/github-pages-react/static/css/main.f855e6bc.css.map",
+    "main.e158c589.js.map": "/dev-tpghks23.github.io/github-pages-react/static/js/main.e158c589.js.map",
+    "453.f7be5b23.chunk.js.map": "/dev-tpghks23.github.io/github-pages-react/static/js/453.f7be5b23.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.f8cc0c7b.js"
+    "static/js/main.e158c589.js"
   ]
 }
